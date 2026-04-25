@@ -1,6 +1,6 @@
 # Architecture
 
-<img width="1536" height="1024" alt="ChatGPT Image Apr 24, 2026, 09_59_50 PM" src="https://github.com/user-attachments/assets/493e9b67-d794-4b92-91aa-949befe6668c" />
+<img width="1536" height="1024" alt="ChatGPT Image Apr 24, 2026, 10_05_40 PM" src="https://github.com/user-attachments/assets/d1043dba-64e7-4e74-a762-eb47d8d080e3" />
 
 ## Overview
 
