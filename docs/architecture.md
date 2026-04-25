@@ -1,5 +1,7 @@
 # Architecture
 
+<img width="1536" height="1024" alt="ChatGPT Image Apr 24, 2026, 09_59_50 PM" src="https://github.com/user-attachments/assets/493e9b67-d794-4b92-91aa-949befe6668c" />
+
 ## Overview
 
 SellerVisor follows a layered architecture:
